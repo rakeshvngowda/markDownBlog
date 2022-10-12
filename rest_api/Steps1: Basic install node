@@ -1,4 +1,0 @@
-Steps1: Basic install node
-    * npm init --y
-    * npm i express mongoose
-    * npm i dataenv nodemon
